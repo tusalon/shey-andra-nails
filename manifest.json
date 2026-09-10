@@ -1,0 +1,22 @@
+{
+  "name": "Shey_andra nails",
+  "short_name": "Shey_andra",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/shey-andra-nails/",
+  "scope": "/shey-andra-nails/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/shey-andra-nails/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/shey-andra-nails/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
